@@ -1,0 +1,29 @@
+.actions-menu {
+    padding: 40px 30px;
+  }
+  
+  .actions-menu h1 {
+    margin-bottom: 20px;
+  }
+  
+  .form-row {
+    padding: 20px 0px; 
+  }
+
+  .actions-menu-content {
+    display:flex;
+    justify-content: space-between;
+  }
+
+  .actions-menu-content > button.btn.btn-primary {
+    height: 40px;
+  }
+
+  .alert {
+    display:none;
+  }
+
+  .lista-vacia {
+    text-align: center;
+  }
+  
